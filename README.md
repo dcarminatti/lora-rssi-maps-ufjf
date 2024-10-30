@@ -4,8 +4,8 @@ Este repositório contém os mapas interativos gerados para visualização da in
 
 ## 🗺️ Mapas Disponíveis  
 Os arquivos a seguir exibem a qualidade do sinal em diferentes áreas:  
-- `mapa_coleta.html`: Mapa da cobertura de sinal no campus da UFJF.  
-- `mapa_completo.html`: Mapa da cobertura de sinal nos arredores do campus.  
+- `mapa_coleta.html`: Mapa da cobertura do campus gerado apenas com os pontos coletados.  
+- `mapa_completo.html`: Mapa da cobertura do campus, preenchido com as estimativas geradas pela IA.  
 
 ## 🔍 Sobre o Projeto  
 Este projeto foi desenvolvido para monitorar e otimizar a qualidade de sinal em redes LoRaWAN por meio de coleta e análise do RSSI (Received Signal Strength Indicator). Os resultados são visualizados em mapas interativos, possibilitando o planejamento eficiente da infraestrutura da rede.
