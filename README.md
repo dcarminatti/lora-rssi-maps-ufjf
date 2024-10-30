@@ -17,3 +17,6 @@ Este projeto foi desenvolvido para monitorar e otimizar a qualidade de sinal em 
    git clone https://github.com/seu-usuario/lora-rssi-maps-ufjf.git```
    
 2. Abra o arquivo .html desejado diretamente no seu navegador.
+
+## ⭐ Créditos
+Desenvolvido com ❤️ por [dcarminatti](https://github.com/dcarminatti)
